@@ -17,7 +17,7 @@ A slideshow covering the project motivation, methodology, and summary of results
 
 ## Models & Weights
 
-Due to GitHub's file size limits, the pre-trained model weights are hosted on Hugging Face.
+Due to GitHub's file size limits, our actual age-aware model is hosted on Hugging Face.
 
 **Link to Model:** [JackInEdinburgh/emoji-sense](https://huggingface.co/JackInEdinburgh/emoji-sense)
 
